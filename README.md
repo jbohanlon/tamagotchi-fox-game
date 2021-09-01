@@ -1,2 +1,2 @@
-# javascript-tamagotchi-fox-game
-Tamagotchi-like fox game written in JavaScript, based on Frontend Masters course
+# tamagotchi-fox-game
+A Tamagotchi-like fox game written in JavaScript, based on a Frontend Masters course.
