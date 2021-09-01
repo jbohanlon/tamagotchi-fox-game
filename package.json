@@ -1,33 +1,33 @@
 {
-  "name": "javascript-fox-game",
-  "version": "1.0.0",
-  "description": "Tamagotchi-like fox game",
-  "main": "index.js",
-  "scripts": {
-    "dev": "parcel src/index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jbohanlon/javascript-tamagotchi-fox-game.git"
-  },
-  "author": "Jonathan O'Hanlon",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jbohanlon/javascript-tamagotchi-fox-game/issues"
-  },
-  "homepage": "https://github.com/jbohanlon/javascript-tamagotchi-fox-game#readme",
-  "devDependencies": {
-    "eslint": "^7.12.1",
-    "eslint-config-prettier": "^6.15.0",
-    "eslint-plugin-import": "^2.22.1",
-    "jest": "^26.6.1",
-    "parcel-bundler": "^1.12.4",
-    "prettier": "^2.1.2"
-  },
-  "browserslist": [
-    "last 2 Chrome versions",
-    "last 2 Firefox versions"
-  ],
-  "dependencies": {}
+	"name": "fox-game",
+	"version": "1.0.0",
+	"description": "Tamagotchi-like fox game",
+	"main": "index.js",
+	"scripts": {
+		"dev": "parcel src/index.html",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jbohanlon/tamagotchi-fox-game.git"
+	},
+	"author": "Jonathan O'Hanlon",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/jbohanlon/tamagotchi-fox-game/issues"
+	},
+	"homepage": "https://github.com/jbohanlon/tamagotchi-fox-game",
+	"devDependencies": {
+		"eslint": "^7.12.1",
+		"eslint-config-prettier": "^6.15.0",
+		"eslint-plugin-import": "^2.22.1",
+		"jest": "^26.6.1",
+		"parcel-bundler": "^1.12.4",
+		"prettier": "^2.1.2"
+	},
+	"browserslist": [
+		"last 2 Chrome versions",
+		"last 2 Firefox versions"
+	],
+	"dependencies": {}
 }
